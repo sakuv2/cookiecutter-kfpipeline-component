@@ -1,0 +1,5 @@
+{
+    "component_name": "component",
+    "python_version": "3.8.3",
+    "image_preffix": "asia.gcr.io/agarichan/kfpipeline"
+}
